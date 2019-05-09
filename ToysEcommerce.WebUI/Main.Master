@@ -1,0 +1,176 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="ToysEcommerce.WebUI.Main" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1254" />
+    <link href="/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="/css/fAwesome.css" rel="stylesheet" />
+    <link href="/css/owl.carousel.min.css" rel="stylesheet" />
+    <link href="/css/main.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-sm-7 ustlink">
+                    <a href="Default.aspx">ANA SAYFA</a>
+                    <a href="Hakkimizda.aspx">HAKKIMIZDA</a>
+                    <a class="d-sm-none d-md-block" href="Products.aspx">SÝTE HARÝTASI</a>
+                    <a href="Iletisim.aspx">ÝLETÝÞÝM</a>
+                </div>
+                <div class="d-none d-sm-block col-5 sosyalmedya">
+                    <div>
+                        <span class="d-sm-none d-md-block">Bizi Takip Edin:</span>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                        <a href="#"><i class="fab fa-youtube"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 col-sm-4 logo">
+                    <img src="/images/logo.jpg" alt="Türkiye'nin Oyuncak Maðazasý" />
+                </div>
+                <div class="col-12 col-sm-4 arama">
+                    <div>
+                        <input type="text" id="ara" /><i class="fas fa-search"></i>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-4 hesabim">
+                    <div>
+                        <div>
+                            <a href="#" class="float-right">Hesabým</a>
+                            <span class="kucuk">Hoþgeldiniz.<a href="#" class="kucuk">Üye Giriþi</a></span>
+                        </div>
+                        <div>
+                            <a href="#">Alýþveriþ Sepetim</a>
+                            <span class="kucuk">Sepetinizdeki Ürün Sayýsý: <span id="sepetSayisi" runat="server" class="d-inline">0</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="d-none d-sm-block menu">
+              <ul>
+                  <asp:Repeater ID="RepeaterCategory" runat="server" OnItemDataBound="RepeaterCategory_ItemDataBound">
+                      <ItemTemplate>
+                          <li><a href="#"><%# Eval("Name")%></a>
+                              <ul>
+                                <asp:Repeater ID="RepeaterSubCategory" runat="server">
+                                    <ItemTemplate>
+                                        <li><a href="#"><%# Eval("Name")%></a></li>
+                                    </ItemTemplate>
+                                </asp:Repeater>
+                              </ul>
+                          </li>
+                      </ItemTemplate>
+                  </asp:Repeater>
+              </ul> 
+            </div>
+        </div>
+
+
+
+        <div >
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <footer class="container">
+            <div class="myfooter">
+                <div class="row renkli">
+                    <div class="col-4 mavi">
+                    </div>
+                    <div class="col-4 turuncu">
+                    </div>
+                    <div class="col-4 yesil">
+                    </div>
+                </div>
+                <div class="row myfooter2">
+                    <div class="col-3 Our Store">
+                        <h6 style="color:#f6781f">Our Store</h6>
+                        <hr/>
+                        <h6 style="color:#808080">Fusce placerat risus faucibus dui ultrices a condimentum elit consectetur nam tristique varius arcu quis lobortis lacus consectetur...</h6>
+                    </div>
+                    <div class="col-3 Information">
+                        <h6 style="color:#f6781f">Information</h6>
+                        <hr/>
+                        <a href="#" >Contact</a>
+                        <br/>
+                        <a href="#" >Delivery</a>
+                        <br/>
+                        <a href="#" >Legal Notice</a>
+                        <br/>
+                        <a href="#" >Terms an conditions of use</a>
+                        <br/>
+                        <a href="#" >About us</a>
+                        <br/>
+                    </div >
+                     <div class="col-3 OurOffers">
+                        <h6 style="color:#f6781f">Our Offers</h6>
+                        <hr/>
+                        <a href="#" >New Products</a>
+                        <br/>
+                        <a href="#" >Top Sellers</a>
+                        <br/>
+                        <a href="#" >Specials</a>
+                        <br/>
+                        <a href="#" >Manufacturers</a>
+                        <br/>
+                        <a href="#" >Suppliers</a>
+                        <br/>
+                    </div>
+                    <div class="col-3 YourAccount">
+                        <h6 style="color:#f6781f">Your Account</h6>
+                        <hr/>
+                        <a href="#" >Your Account</a>
+                        <br/>
+                        <a href="#" >Personel Informations</a>
+                        <br/>
+                        <a href="#" >Address</a>
+                        <br/>
+                        <a href="#" >Discount</a>
+                        <br/>
+                        <a href="#" >Order History</a>
+                        <br/>
+                    </div>
+                     <div class="col-3 New Collection Everyday">
+                        <h6 style="color:#f6781f">New Collection Everyday</h6>
+                        <hr/>
+                        <h6 style="color:#808080">Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit</h6>
+                    </div>
+                    <div class="col-3 Free Shipping">
+                        <h6 style="color:#f6781f">Free Shipping</h6>
+                        <hr/>
+                        <h6 style="color:#808080">For all orders over $200.00</h6>
+                    </div>
+                    <div class="col-3 Follow Us On">
+                        <h6 style="color:#f6781f">Follow Us On</h6>
+                        <hr/>
+                    </div>
+                    <div class="col-3 Assistance">
+                        <h6 style="color:#f6781f">Assistance</h6>
+                        <hr/>
+                        <a href="#">FAQs</a>
+                        <br/>
+                        <a href="#" >Shipping Information & Returns</a>
+                        <br/>
+                        <a href="#" >Have Questions?Just ask us</a>
+                        <br/>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </form>
+    <script src="/js/jq.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/owl.carousel.min.js"></script>
+    <script src="/js/main.js"></script>
+</body>
+</html>

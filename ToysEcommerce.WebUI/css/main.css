@@ -1,0 +1,322 @@
+﻿body {
+    background-image: url(/images/body.jpg);
+    background-repeat: repeat-x;
+    background-color: #e9f2f2;
+    font-family: 'Roboto', sans-serif;
+}
+
+.ustlink > a {
+    display: block;
+    float: left;
+    padding: 10px 5px 0 5px;
+    font-size: 12px;
+    color: #fff;
+}
+
+    .ustlink > a:hover {
+        color: #f8ceae;
+    }
+
+.sosyalmedya > div {
+    float: right
+}
+
+    .sosyalmedya > div span {
+        display: block;
+        padding-top: 9px;
+        float: left;
+        font-size: 13px;
+        color: #fff;
+    }
+
+    .sosyalmedya > div a {
+        display: block;
+        float: left;
+        margin: 7px 0 0 15px;
+    }
+
+        .sosyalmedya > div a i {
+            font-size: 16px;
+            color: #fff;
+        }
+
+        .sosyalmedya > div a:hover i {
+            color: #f8ceae;
+        }
+
+.logo {
+    padding-top: 23px;
+}
+
+.arama {
+    padding-top: 46px;
+}
+
+    .arama > div {
+        width: 90%;
+        height: 44px;
+        border: solid 4px #6cb13c;
+        background-color: #fff;
+        border-radius: 22px;
+    }
+
+        .arama > div input {
+            width: 80%;
+            display: block;
+            float: left;
+            margin: 3px 5% 3px 5%;
+            border: none;
+            outline: none;
+            padding: 6px 0 0 5px;
+            font-size: 13px;
+        }
+
+        .arama > div i {
+            color: #ea6402;
+            margin-top: 10px;
+        }
+
+.hesabim {
+    padding-top: 46px;
+}
+
+    .hesabim > div {
+        float: right;
+    }
+
+        .hesabim > div > div {
+            float: left;
+            color: #fff;
+        }
+
+            .hesabim > div > div:first-child {
+                border-right: solid 1px #fff;
+                padding-right: 9px;
+                margin-right: 9px;
+            }
+
+            .hesabim > div > div span {
+                display: block;
+            }
+
+            .hesabim > div > div a {
+                color: #fff;
+            }
+
+            .hesabim > div > div .kucuk {
+                font-size: 13px;
+            }
+
+.menu {
+    height: 45px;
+    margin-top: 5px;
+    background-image: url(/images/menu.png);
+    background-repeat: repeat-x;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+    .menu ul {
+        list-style-type: none;
+    }
+
+    .menu > ul > li {
+        float: left;
+        position: relative;
+    }
+
+        .menu > ul > li > a {
+            display: block;
+            height: 45px;
+            padding: 10px 27px 0 27px;
+            color: #fff;
+            font-size: 16px;
+            font-weight: 600;
+        }
+
+            .menu > ul > li > a:hover {
+                background-color: rgba(239, 148, 22, 0.40);
+                text-decoration: none;
+                border-right: solid 1px #e58e16
+            }
+
+    .menu ul ul {
+        display: none;
+        position: absolute;
+        z-index: 100;
+        background-color: red;
+        left: 0;
+        text-align:left;
+    }
+
+    .menu > ul > li:hover ul {
+        display: block;
+    }
+
+.slider {
+    background-color: #fff;
+    padding: 15px;
+}
+
+    .slider img {
+        width: 100%
+    }
+/*.slideitem
+{
+    width:100%;
+    height:450px;
+    background-color:red;
+    background-repeat:no-repeat;
+    background-size:cover;
+}*/
+/*Small devices (smaill mobile*/
+.productItem {
+    padding: 15px;
+}
+
+    .productItem > div {
+        min-height: 520px;
+        padding: 15px;
+        background-color: #fff;
+    }
+
+        .productItem > div img {
+            margin: auto;
+        }
+
+.soltaraf {
+    width: 28%;
+    float: left;
+    margin-right: 2%;
+}
+
+.form {
+    width: 70%;
+    margin-top: 50px;
+    border: solid 1px #bdbdbd;
+    padding: 15px 15px 0 15px;
+    overflow: hidden;
+}
+
+    .form .satir {
+        min-height: 50px;
+        clear: both;
+    }
+
+        .form .satir > span {
+            width: 18%;
+            float: left;
+            margin-right: 2%;
+        }
+
+        .form .satir > input[type=text], .form .satir > textarea, .form .satir > select {
+            width: 80%;
+            height: 40px;
+            float: left;
+            resize: none;
+            outline: none;
+        }
+
+        .form .satir > textarea {
+            height: 80px;
+        }
+
+@media (max-width: 576px) {
+    .logo {
+        padding-top: 25px;
+        text-align: center;
+    }
+
+        .logo img {
+            width: 150px;
+            margin: auto;
+        }
+
+    .arama {
+        padding-top: 6px;
+    }
+
+    .hesabim {
+        padding-top: 6px;
+    }
+
+    .arama > div {
+        width: 100%;
+    }
+
+    .hesabim > div {
+        float: none;
+    }
+}
+
+/*Small devices (landscape phones, 576px and u*/
+@media (min-width: 576px) {
+    .logo img {
+        width: 251px;
+    }
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+    ...
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+}
+
+footer {
+    padding: 2% 2% 5% 2%;
+}
+
+.myfooter {
+    min-height: 400px;
+    padding: 2% 2% 2% 2%;
+    background-color: #fff;
+}
+
+.renkli {
+    height: 4px;
+}
+
+    .renkli .mavi {
+        background-color: #94f6f3;
+    }
+
+    .renkli .turuncu {
+        background-color: #fa971d;
+    }
+
+    .renkli .yesil {
+        background-color: #a8f832;
+    }
+
+.myfooter2 {
+    padding: 15px;
+}
+
+    .myfooter2 > div {
+        min-height: 200px;
+        padding: 15px;
+        background-color: #fff;
+    }
+
+    .myfooter2 > hr {
+        width: 15%;
+        height: 2px;
+        color: #bdbdbd;
+    }
+
+
+.Information a, .OurOffers a, .YourAccount a, .Assistance a {
+    color: #808080;
+    text-decoration: none;
+}
+
+    .Information a:hover, .OurOffers a:hover, .YourAccount a:hover, .Assistance a:hover {
+        color: #000000;
+    }

@@ -1,0 +1,68 @@
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.DAL.dll.config
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.DAL.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.DAL.pdb
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.BOL.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.BOL.pdb
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.csprojAssemblyReference.cache
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.csproj.CopyComplete
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.pdb
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.DAL.dll.config
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.DAL.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.DAL.pdb
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.DAL\bin\Debug\EntityFramework.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.BOL.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.BOL.pdb
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.DAL\bin\Debug\EntityFramework.xml
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.csprojAssemblyReference.cache
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.csproj.CoreCompileInputs.cache
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.csproj.CopyComplete
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.pdb
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.DAL.dll.config
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.DAL.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.DAL.pdb
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.BOL.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.BOL.pdb
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.csproj.CopyComplete
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.pdb
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.DAL.dll.config
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.DAL.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.DAL.pdb
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.BOL.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.BOL.pdb
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.csproj.CopyComplete
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.pdb
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.DAL.dll.config
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.DAL.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.DAL.pdb
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.BOL.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.DAL\bin\Debug\ToysEcommerce.BOL.pdb
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.DAL\bin\Debug\EntityFramework.xml
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.csproj.CopyComplete
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.DAL\obj\Debug\ToysEcommerce.DAL.pdb

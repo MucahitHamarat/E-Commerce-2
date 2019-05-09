@@ -1,0 +1,478 @@
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\ToysEcommerce.WebUI.dll.config
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\ToysEcommerce.WebUI.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\ToysEcommerce.WebUI.pdb
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\csc.exe
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\csc.exe.config
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\csc.rsp
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\csi.exe
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\csi.exe.config
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\csi.rsp
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.Console.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\vbc.exe
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\vbc.rsp
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\EntityFramework.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\EntityFramework.xml
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.csprojAssemblyReference.cache
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.csproj.CopyComplete
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.pdb
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\ToysEcommerce.BLL.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\ToysEcommerce.BOL.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\ToysEcommerce.DAL.dll
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\ToysEcommerce.BLL.pdb
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\ToysEcommerce.BLL.dll.config
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\ToysEcommerce.BOL.pdb
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\ToysEcommerce.DAL.pdb
+C:\Users\Section1\source\repos\ToysEcommerce\ToysEcommerce.WebUI\bin\ToysEcommerce.DAL.dll.config
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\ToysEcommerce.WebUI.dll.config
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\ToysEcommerce.WebUI.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\ToysEcommerce.WebUI.pdb
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\csc.exe
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\csc.exe.config
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\csc.rsp
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\csi.exe
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\csi.exe.config
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\csi.rsp
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.Console.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\vbc.exe
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\vbc.rsp
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\EntityFramework.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\ToysEcommerce.BLL.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\ToysEcommerce.BOL.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\ToysEcommerce.DAL.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\ToysEcommerce.BLL.pdb
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\ToysEcommerce.BLL.dll.config
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\ToysEcommerce.BOL.pdb
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\EntityFramework.xml
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\ToysEcommerce.DAL.pdb
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\bin\ToysEcommerce.DAL.dll.config
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.csprojAssemblyReference.cache
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.csproj.CopyComplete
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.dll
+C:\Users\VB\Downloads\ToysEcommerce-11.02.2019\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.pdb
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\ToysEcommerce.WebUI.dll.config
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\ToysEcommerce.WebUI.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\ToysEcommerce.WebUI.pdb
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\csc.exe
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\csc.exe.config
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\csc.rsp
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\csi.exe
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\csi.exe.config
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\csi.rsp
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Console.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\vbc.exe
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\vbc.rsp
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\EntityFramework.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\ToysEcommerce.BLL.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\ToysEcommerce.BOL.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\ToysEcommerce.DAL.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\ToysEcommerce.BLL.pdb
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\ToysEcommerce.BLL.dll.config
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\ToysEcommerce.BOL.pdb
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\EntityFramework.xml
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\ToysEcommerce.DAL.pdb
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\ToysEcommerce.DAL.dll.config
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.csprojAssemblyReference.cache
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.csproj.CopyComplete
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.dll
+C:\Users\Section1\Downloads\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.pdb
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\ToysEcommerce.WebUI.dll.config
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\ToysEcommerce.WebUI.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\ToysEcommerce.WebUI.pdb
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\csc.exe
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\csc.exe.config
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\csc.rsp
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\csi.exe
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\csi.exe.config
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\csi.rsp
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Console.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\vbc.exe
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\vbc.rsp
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\EntityFramework.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\ToysEcommerce.BLL.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\ToysEcommerce.BOL.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\ToysEcommerce.DAL.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\ToysEcommerce.BLL.pdb
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\ToysEcommerce.BLL.dll.config
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\ToysEcommerce.BOL.pdb
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\EntityFramework.xml
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\ToysEcommerce.DAL.pdb
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\bin\ToysEcommerce.DAL.dll.config
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.csproj.CopyComplete
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.dll
+C:\Users\Section1\Desktop\ToysEcommerce-11.02.2019(2)\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.pdb
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.pdb
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\ToysEcommerce.WebUI.dll.config
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\ToysEcommerce.WebUI.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\ToysEcommerce.WebUI.pdb
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\csc.exe
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\csc.exe.config
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\csc.rsp
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\csi.exe
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\csi.exe.config
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\csi.rsp
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.Console.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\vbc.exe
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\vbc.rsp
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\EntityFramework.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\ToysEcommerce.BLL.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\ToysEcommerce.BOL.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\ToysEcommerce.DAL.dll
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\ToysEcommerce.BLL.pdb
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\ToysEcommerce.BLL.dll.config
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\ToysEcommerce.BOL.pdb
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\EntityFramework.xml
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\ToysEcommerce.DAL.pdb
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\bin\ToysEcommerce.DAL.dll.config
+C:\Users\Section1\Desktop\ToysEcommerceCagla\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.csproj.CopyComplete
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\ToysEcommerce.WebUI.dll.config
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\ToysEcommerce.WebUI.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\ToysEcommerce.WebUI.pdb
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\csc.exe
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\csc.exe.config
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\csc.rsp
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\csi.exe
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\csi.exe.config
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\csi.rsp
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.Console.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\vbc.exe
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\vbc.rsp
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\EntityFramework.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\ToysEcommerce.BLL.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\ToysEcommerce.BOL.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\ToysEcommerce.DAL.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\ToysEcommerce.BLL.pdb
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\ToysEcommerce.BLL.dll.config
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\ToysEcommerce.BOL.pdb
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\EntityFramework.xml
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\ToysEcommerce.DAL.pdb
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\bin\ToysEcommerce.DAL.dll.config
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.csproj.CopyComplete
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.dll
+C:\Users\Section1\Desktop\ToysEcommerce-13.02.2019AKŞAM\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.pdb
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\ToysEcommerce.WebUI.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\ToysEcommerce.WebUI.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\ToysEcommerce.WebUI.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\csc.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\csc.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\csc.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\csi.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\csi.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\csi.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.Console.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\vbc.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\vbc.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\EntityFramework.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\ToysEcommerce.BLL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\ToysEcommerce.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\ToysEcommerce.DAL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\ToysEcommerce.BLL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\ToysEcommerce.BLL.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\ToysEcommerce.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\EntityFramework.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\ToysEcommerce.DAL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\bin\ToysEcommerce.DAL.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.csproj.CopyComplete
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\ToysEcommerce-13.02.2019AKŞAM (1)\ToysEcommerce.WebUI\obj\Debug\ToysEcommerce.WebUI.pdb
